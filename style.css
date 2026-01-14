@@ -6,7 +6,7 @@
 
 /* start common style  */
 body {
-    font-family: __Space_Grotesk_d6514e, __Space_Grotesk_Fallback_d6514e, __Hind_Siliguri_e3129f, __Hind_Siliguri_Fallback_e3129f;
+    font-family: "Work Sans";
     font-weight: 400;
     font-size: 1rem;
     line-height: 1.9;
@@ -116,7 +116,8 @@ ul li a {
 .enroll-btn a {
     text-decoration: none;
     color: white;
-    font-size: 18px;
+    font-size: 15px;
+    font-weight: bold;
 }
 
 /* hero section  */
